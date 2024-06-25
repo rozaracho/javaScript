@@ -1,0 +1,14 @@
+let a = 10;
+
+console.log(a > 5);
+console.log(a >= 5);
+console.log(a < 5);
+console.log(a <= 5);
+
+
+//igualdad
+console.log(a == 10);
+console.log(a != 10);
+console.log(a == '10'); //true
+console.log(a === '10'); // compara por tipo 
+console.log(a !== 10);  // compara por tipo 
